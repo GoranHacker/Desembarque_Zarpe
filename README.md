@@ -2,6 +2,7 @@
 App Shiny con datos de desembarque y zarpe
 
 Descripción de la Aplicación Shiny: Resumen de Zarpe y Desembarque
+
 Introducción
 Esta aplicación Shiny busca generar la base para futuras herramientas analíticas para Sernapesca, utilizando datos de desembarque de las bases de datos institucionales y datos de zarpes de la región del Maule. En primera instancia, se realiza un análisis descriptivo y comparativo. En el futuro, se espera que las unidades de análisis, en coordinación con la unidad de inteligencia, trabajen en la coconstrucción de nuevas y mejores herramientas analíticas avanzadas en R.
 
